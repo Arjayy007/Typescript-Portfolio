@@ -1,12 +1,21 @@
-import { Button } from "./components/ui/button"
+import Contacts from "./components/Contacts"
+import Hero from "./components/Hero"
+import Navigation from "./components/Navigation"
+import Projects from "./components/Projects"
+
 
 function App() {
 
 
   return (
     <>
-      <h1>kupal kabah boss</h1>
-      <Button variant="outline">tryy </Button>
+      <main className="flex flex-col items-center px-4 md:px-8 lg:px-16">
+        <Navigation />
+        <Hero />
+        <Projects />
+        <Contacts />
+      </main>
+
     </>
   )
 }
