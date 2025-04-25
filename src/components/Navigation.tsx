@@ -15,7 +15,7 @@ const Navigation = () => {
                 <a href="#contact" className="font-bold text-base ml-8 hover:text-gray-500 transition-colors">
                     Contact
                 </a>
-
+                
             </div>
         </nav>
   )

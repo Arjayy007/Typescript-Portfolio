@@ -2,7 +2,7 @@
 const Certifications = () => {
   return (
     <div>
-      
+      <div>emwe</div>
     </div>
   )
 }

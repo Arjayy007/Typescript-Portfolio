@@ -5,6 +5,9 @@ const Projects = () => {
       <div>kupal</div>
       <div>eme</div>
       <div>dagdag</div>
+      <div>kupal</div>
+      <div>eme</div>
+      <div>dagdag</div>
     </div>
   )
 }
