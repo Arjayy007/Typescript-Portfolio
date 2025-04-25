@@ -19,7 +19,7 @@ const Hero = () => {
         <p className="text-gray-500 mt-4 max-w-2xl">
           Computer Science student passionate about frontend development. I love learning new technologies and collaborating to create seamless digital experiences. </p>
       </div>
-       ///kupl ka idle
+       ///fdkupl ka idle
       <div className='flex flex-row items-center gap-7 mt-10 text-3xl'>
       <a aria-label='LinkedIn Profile' target='_blank' rel='noopener noreferrer' href="https://www.linkedin.com/in/sustiguer-rodel-jr-dv-00155b291"> <FaLinkedin /> </a>
       <a aria-label='Github Acc' target='_blank' rel='noopener noreferrer' href="https://github.com/Arjayy007"><FaGithubSquare /> </a>
