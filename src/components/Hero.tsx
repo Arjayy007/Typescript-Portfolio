@@ -1,6 +1,6 @@
 import { FaGithubSquare, FaLinkedin } from 'react-icons/fa'
-import { FaSquareInstagram } from 'react-icons/fa6'
 import { GiSplash } from 'react-icons/gi'
+import { TbFileCv } from "react-icons/tb"
 import meImage from '../assets/me.png'
 import { ScratchToReveal } from "./magicui/scratch-to-reveal"
 import { SpinningText } from './magicui/spinning-text'
@@ -27,7 +27,7 @@ to learn new technologies, collaborate with teams, and build efficient solutions
       <div className='flex flex-row items-center gap-7 mt-10 text-3xl'>
       <a aria-label='LinkedIn Profile' target='_blank' rel='noopener noreferrer' href="https://www.linkedin.com/in/sustiguer-rodel-jr-dv-00155b291"> <FaLinkedin /> </a>
       <a aria-label='Github Acc' target='_blank' rel='noopener noreferrer' href="https://github.com/Arjayy007"><FaGithubSquare /> </a>
-      <a aria-label='Instagram Acc' target='_blank' rel='noopener noreferrer' href="https://www.instagram.com/arjay.777/"><FaSquareInstagram /> </a>
+      <a aria-label='Instagram Acc' target='_blank' rel='noopener noreferrer' href="https://drive.google.com/file/d/1texCOt4H5Dk5YVbTS29sdElHZ9XakoGa/view?usp=sharing"><TbFileCv /> </a>
       </div>
     </div>
   )

@@ -8,9 +8,9 @@ import { VscVscode } from "react-icons/vsc";
 
 const Skills = () => {
     return (
-        <div className="flex flex-col items-center justify-center w-full mt-5 h-full ">
+        <div id="skills" className="flex flex-col items-center justify-center w-full mt-5 h-full ">
             <BlurFade
-                className="flex flex-col items-center justify-center w-full mt-20"
+                className="flex flex-col items-center justify-center w-full"
                 duration={1}
                 triggerOnScroll={true} // Animation starts when fully visible
             >
