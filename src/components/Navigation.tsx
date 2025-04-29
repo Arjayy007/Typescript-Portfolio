@@ -16,7 +16,7 @@ const Navigation = () => {
                     <GoHomeFill className="text-4xl" />
                 </a>
 
-                <a href="#contact" className="font-bold text-base ml-8 hover:text-gray-400 transition-colors">
+                <a href="#certi" className="font-bold text-base ml-8 hover:text-gray-400 transition-colors">
                     Certi
                 </a>
                 <a href="#contact" className="font-bold text-base ml-8 hover:text-gray-400 transition-colors">

@@ -17,7 +17,7 @@ interface ProjectCardProps {
         rel={link ? "noopener noreferrer" : undefined} // Security for external links
         className="overflow-hidden rounded-lg bg-white transition-all hover:shadow-black hover:shadow-md hover:scale-105"
       >
-        <div className="relative h-80 w-full">
+        <div className="relative h-96 w-full">
           <img
             src={imageUrl || "/placeholder.svg"}
             alt={imageAlt}

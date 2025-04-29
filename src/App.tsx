@@ -1,5 +1,7 @@
 import Aurora from "./components/Aurora/Aurora"
+import Certifications from "./components/Certifications"
 import Contacts from "./components/Contacts"
+import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Navigation from "./components/Navigation"
 import Projects from "./components/Projects"
@@ -20,7 +22,9 @@ function App() {
           <Hero />
           <Skills />
           <Projects />
+          <Certifications />
           <Contacts />
+          <Footer />
         </main>
       </div>
     </>

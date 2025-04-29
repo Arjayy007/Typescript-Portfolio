@@ -13,7 +13,7 @@ const Projects = () => {
         className="flex flex-col items-center justify-center w-full"
         duration={1}
       >
-        <h1 className="justify-center text-5xl font-bold">Programming Skills & Tools</h1>
+        <h1 className="justify-center text-3xl sm:text-4xl md:text-5xl font-bold">Projects </h1>
         <div className="grid grid-cols-1 sm:grid-cols-1 gap-8 p-6 md:grid-cols-2 mt-20">
 
           <ProjectCard

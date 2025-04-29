@@ -14,7 +14,7 @@ const Skills = () => {
                 duration={1}
                 triggerOnScroll={true} // Animation starts when fully visible
             >
-                <h1 className="justify-center text-5xl font-bold">Programming Skills & Tools</h1>
+                <h1 className="justify-center text-3xl sm:text-4xl md:text-5xl font-bold">Programming Skills & Tools</h1>
 
 
                 <div className="flex flex-row justify-center items-center text-5xl md:text-9xl my-7 mt-20 gap-5 md:gap-20">
