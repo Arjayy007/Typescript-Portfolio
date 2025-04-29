@@ -1,6 +1,6 @@
 import { useState } from "react";
 import c from "../assets/c.jpg";
-import cs50p from "../assets/cs50p.png";
+import cs50p from "../assets/CS50P.png";
 import nc3 from "../assets/nc_3.jpg";
 import up from "../assets/up.jpg";
 import { BlurFade } from "./magicui/blur-fade";
