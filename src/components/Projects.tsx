@@ -19,9 +19,7 @@ const Projects = () => {
           <ProjectCard
             title="MyxCulture E-Commerce Website "
             role="Project Manager/ Frontend Lead"
-            description="Developed a full-stack e-commerce website for a real client using HTML, Tailwind CSS, JavaScript, Node.js, Express.js,
-and MongoDB, featuring a responsive design, user authentication, product catalog, shopping cart, and secure checkout
-system as part of the Systems Fundamentals course at the University of Caloocan City (UCC)."
+            description="Led frontend development and project management in a team-built e-commerce website for a real client using HTML, Tailwind CSS, JavaScript, Node.js, Express.js, and MongoDB, featuring responsive design, authentication, product catalog, shopping cart, and secure checkout, as part of the Systems Fundamentals course at the University of Caloocan City (UCC)."
             imageUrl={myx}
             imageAlt="Screenshot of Coupon Management System code"
             link="https://www.youtube.com/watch?v=rh38Le-7Izs"
@@ -30,8 +28,7 @@ system as part of the Systems Fundamentals course at the University of Caloocan 
           <ProjectCard
             title="Navigaze (Mobile App for Indoor Navigation)"
             role="Navigation Developer"
-            description="Designed a 3D model of the school in Blender and integrated it into Unity for navigation, utilizing baked paths and AI
-algorithms for the shortest path. Implemented AR to merge the 3D model with the real world using Line Renderer."
+            description="Contributed to a group system project by designing a 3D model of the school in Blender and integrating it into Unity; led the development of the navigation feature using baked paths, AI algorithms for shortest pathfinding, and AR integration with Line Renderer to guide users through the 3D environment."
             imageUrl={navigaze}
             imageAlt="Screenshot of Coupon Management System code"
             link="https://www.youtube.com/shorts/3NNzBikGzBQ"
