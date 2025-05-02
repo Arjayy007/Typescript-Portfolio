@@ -47,9 +47,7 @@ applying best coding practices with a focus on modular programming and code read
           <ProjectCard
             title="Accounting Management System for Gigatech Inc."
             role="Full-Stack Developer"
-            description="Developed a basic Accounting Management System for Gigatech Inc. using Java and Scene Builder, integrating CRUD
-functionalities for managing transactions, invoices, and financial records, as the final project for TESDA NC III Java
-Programming certification."
+            description="Collaborated on a team project to develop a basic Accounting Management System for Gigatech Inc. using Java and Scene Builder, integrating CRUD functionalities for managing transactions, invoices, and financial records, as the final project for the TESDA NC III Java Programming certification."
             imageUrl={giga}
             imageAlt="coupon management system"
           />
