@@ -1,4 +1,5 @@
 import { BlurFade } from "@/components/magicui/blur-fade";
+import { CgFigma } from "react-icons/cg";
 import { FaGitAlt, FaGithub, FaHtml5, FaJava, FaPython, FaReact } from "react-icons/fa";
 import { FaUnity } from "react-icons/fa6";
 import { IoLogoNodejs } from "react-icons/io";
@@ -38,6 +39,7 @@ const Skills = () => {
                     <FaGitAlt />
                     <FaGithub />
                     <FaUnity />
+                    <CgFigma />
                 </div>
             </BlurFade>
 
